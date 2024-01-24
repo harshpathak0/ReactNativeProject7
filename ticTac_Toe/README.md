@@ -6,6 +6,8 @@ The TicTac_Toe app is a React Native-based mobile application that brings the cl
 
 **#Screen Shots:-**
 
+![image](https://github.com/harshpathak0/ReactNativeProject7/assets/136677724/18ca3ba9-b8c9-4cae-bdd7-06ae519ac265)
+
 ![image](https://github.com/harshpathak0/ReactNativeProject7/assets/136677724/00b56885-cf2e-48ce-8511-33b46e5e6123)
 
 ![image](https://github.com/harshpathak0/ReactNativeProject7/assets/136677724/02e17655-69de-4e40-a8fe-90011b540728)
