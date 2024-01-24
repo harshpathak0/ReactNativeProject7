@@ -1,10 +1,10 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
-**#TicTac_Toe**
+# TicTacToe App:-
 
 The TicTac_Toe app is a React Native-based mobile application that brings the classic Tic-Tac-Toe game to your device. Enjoy a simple yet engaging gaming experience with intuitive touch controls. 
 
-**#Screen Shots:-**
+# Preview of App:-
 
 ![image](https://github.com/harshpathak0/ReactNativeProject7/assets/136677724/00b56885-cf2e-48ce-8511-33b46e5e6123)
 
